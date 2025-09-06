@@ -15,9 +15,9 @@ One - Digital Banking is a web-based application designed to provide users with 
 ## Technologies Used
 - Frontend: HTML, CSS, JavaScript
 
-##Login
-Customer Id : 123456789
-Pin : 1234
+## Login
+-Customer Id : 123456789
+-Pin : 1234
 
 ## Installation and Setup
 1. Clone the repository:
