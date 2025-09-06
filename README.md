@@ -1,7 +1,3 @@
-The provided URL for the One - Digital Banking web page could not be accessed directly to retrieve content for generating a specific README. However, based on the typical structure of README files for digital banking web applications, a general template can be created.
-
-Here is a tailored README draft for a GitHub repository of a Digital Banking System web application:
-
 # One - Digital Banking
 
 ## Overview
@@ -34,4 +30,10 @@ Specify the license under which the project is released.
 
 ***
 
-If more specific details or additional functionality are known for the web application, they can be added to this README. If a better access or snapshot of the web project is provided, a more precise and customized README can be generated.
+<img width="1858" height="933" alt="image" src="https://github.com/user-attachments/assets/79328cac-e7f0-44e8-b7cb-e29e23da3316" />
+
+
+![Uploading image.png…]()
+
+
+
